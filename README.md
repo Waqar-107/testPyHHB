@@ -1,3 +1,3 @@
 # testPyHHB
 
-A simple Python library to greet someone.
+A simple Python lib to greet someone.
